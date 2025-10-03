@@ -1,0 +1,33 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /dashboard
+Disallow: /payments
+Disallow: /api
+
+User-agent: Bingbot
+Allow: /
+Disallow: /dashboard
+Disallow: /payments
+Disallow: /api
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /dashboard
+Disallow: /payments
+Disallow: /api
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /dashboard
+Disallow: /payments
+Disallow: /api
+
+# Default for all other crawlers
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /payments
+Disallow: /api
+
+# Sitemap location
+Sitemap: https://marup-group-fund-lottery.vercel.app/sitemap.xml
