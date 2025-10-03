@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://marup-group-fund-lottery.vercel.app/
 
 
 
