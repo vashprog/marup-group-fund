@@ -1,4 +1,4 @@
-# Marup-Group-Fund-Lottery
+# Marup-Group-Fund
 
 ## Project info
 
@@ -8,9 +8,9 @@
 
 ```sh
 
-git clone <YOUR_GIT_URL>
+git clone https://github.com/vashprog/marup-group-fund.git
 
-cd <YOUR_PROJECT_NAME>
+cd marup-group-fund
 
 npm i
 
